@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da6df3fd-7b25-4329-a16d-a1a07d4d629d" name="Default Changelist" comment="" />
+    <list default="true" id="da6df3fd-7b25-4329-a16d-a1a07d4d629d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/efs_rest/efs_rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs_rest/efs_rest/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TOBrvtnKw5zRRSmFPyTZrXPwqi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -85,12 +91,23 @@
       <option name="presentableId" value="Default" />
       <updated>1573321463786</updated>
       <workItem from="1573321470030" duration="4083000" />
-      <workItem from="1573336546203" duration="15228000" />
+      <workItem from="1573336546203" duration="15935000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/efs_rest$serializers.coverage" NAME="serializers Coverage Results" MODIFIED="1573340821353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/efs_rest/portfolio" />
